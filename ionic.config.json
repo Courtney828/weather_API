@@ -1,0 +1,7 @@
+{
+  "name": "Weather_API",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
